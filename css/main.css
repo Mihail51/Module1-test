@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+p {
+    color: white;
+    background-color: black;
+}
+li {
+    background-color: aqua;
+    color: red;
+}
+a {
+    text-decoration: none;
+}
